@@ -1,3 +1,4 @@
 # exclude all out directories to avoid build junk
 kernel/mediatek/custom/out/*
 out/*
+kernel/
