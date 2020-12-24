@@ -2,3 +2,5 @@
 kernel/mediatek/custom/out/*
 out/*
 kernel/
+/kernel
+/prebuilts
